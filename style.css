@@ -1,0 +1,22 @@
+ul li{
+    margin: auto;
+    width: 20%;
+    list-style-type: none;
+    padding: 8px 6px 8px 6px;
+
+}
+
+li:nth-child(odd){
+    background-color: hotpink;
+    
+}
+
+li.col{ 
+
+    background-color: darkorchid;
+}
+
+li.hola{
+
+    background-color: aqua;
+}
